@@ -653,3 +653,5 @@ Here are some ways to continue learning:
 5. **Join the community**: Share what you've built!
 
 **Keep building, keep learning!** 🚀
+
+**Let us know how you experienced the event** [by completing this survey](https://pulse.aws/survey/SRBZBBVS)

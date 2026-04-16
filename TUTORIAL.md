@@ -16,14 +16,14 @@ Think of an AI agent like a smart assistant that can:
 - **Use tools** to get things done
 - **Remember** context from your conversation
 
-**Analogy:** Imagine a chef. You tell them "I want something Italian for dinner." They don't just recite a recipe—they think about what ingredients are available, decide on a dish, use their knives and pans to cook it, and remember that you mentioned you don't like mushrooms earlier. An AI agent works the same way: it reasons, decides, acts, and remembers.
+**Analogy:** Imagine a chef. You tell them "I want something Italian for dinner." They don't just recite a recipe, they think about what ingredients are available, decide on a dish, use their knives and pans to cook it, and remember that you mentioned you don't like mushrooms earlier. An AI agent works the same way: it reasons, decides, acts, and remembers.
 
 ### What is Strands Agents SDK?
 
 Strands is an open-source framework that makes building AI agents simple. It handles the complex parts so you can focus on what your agent should do.
 
 **Why Strands?**
-- 🚀 Simple to start, powerful to scale
+- 🚀 Simple to start and scale
 - 🔧 Easy tool integration
 - 🧠 Built-in memory management
 - 📚 Great documentation
